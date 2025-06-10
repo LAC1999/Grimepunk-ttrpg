@@ -14,6 +14,6 @@ Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 This project was edited in google docs, it is largely a one person project with ocassional help from my friends.
 
-If you have suggestions, would like to give feedback, opinions, ask question or even play, feel free to contatct me.
+If you have suggestions, would like to give feedback, opinions, ask question or even play, feel free to contact me.
 
 Contact discord "suntzundere."
