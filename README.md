@@ -12,6 +12,8 @@ Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ##About the project
 
+GrimePunk Cyber is the most updated as of the righting of this
+
 This project was edited in google docs, it is largely a one person project with ocassional help from my friends.
 
 If you have suggestions, would like to give feedback, opinions, ask question or even play, feel free to contact me.

@@ -1,0 +1,30 @@
+"~" means partially done, needs to be completed
+
+Lore
+	Geography
+		Earth
+			Americas
+			Europe
+			Asia
+			Oceania
+			Africe
+		Mars
+			Phobos
+			Deimos
+		Jupiter
+			Europa
+			Io
+			Ganymede
+			Calisto
+	Tech
+	Culture
+	Religion
+Gear
+	~General items
+	~Drones
+	~Generic Weapons
+	~non generic weapons
+	~attachments
+	~Armor
+	~Drugs
+	AIs

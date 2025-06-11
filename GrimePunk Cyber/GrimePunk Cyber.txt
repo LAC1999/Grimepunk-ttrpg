@@ -1,0 +1,2298 @@
+﻿GrimePunk
+Cyber
+________________
+
+
+Introductions
+This chapter acts as a simple introduction to this book, and to the game itself. Details like the terms and terminology used, what is necessary to play this game and what you can find in this book are all contained here.
+
+
+About the content
+This tabletop rpg is intended for a mature audience, its world is inspired by the history of our own, so it is cruel and bleak. Some of the topics that can be covered in this book as well as in stories told using this system include but are not limited to some of the worst crimes in human history, committed both by governments and individuals alike. Subjects such as facism, racism, murder, torture, sexual violence, religious extremism, chauvinism, state and corporate surveilance and loss of privacy along with many others can be explored both in text and subtext not only in this book but in game sessions. Portraying such things is not the same as endorsing them, such sensitive subjects should be problematized and talked about without painting them in a positive light.
+
+
+In case you, or someone who decides to partake in the game or read this book is made uncomfortable by such topics, consider this your warning.
+
+
+For the safety and comfort of both players and narrator alike, it is encouraged to discuss which topics are ok or not to be part of your game and how to tackle them, these decisions must be made on a case by case basis after discussion with all others involved.
+
+
+In case an agreement can't be reached, it is always acceptable to not join the group in play, or not to include those who couldn't agree with the group, as all those who put the effort in to play should be allowed their fun. So if you are a narrator for example, do not feel bad about not including a player who would only want to play in a way you don't enjoy narrating, you are also entitled to your fun!
+
+
+
+
+“Without patriotic political education, a soldier is only a potential criminal.”                              - Sankara, Thomas
+Necessary for play
+* This book
+* One copy of the sheet for each player
+* 20, 10, 8, 6, 4 and 2 sided dice, recommended to have more 6s and 4 siders
+* Paper and pencil(pencil sharpener and eraser recommended)
+* One person to be the narrator
+* two to five people to be players is the recommended
+
+
+About his book and game
+This is a TTRPG that takes place after a cold war that turned hot, it takes place after the apocalypse, after the world has been, for better or worse, rebuilt. Now humans can alter themselves with cybernetics connected to their nervous system.
+
+
+        For the players there will be a variety of roles to choose from, representing different specializations, how points are spent on the sheet can offer mechanical changes and backgrounds can offer interesting role playing opportunities to create a unique and flashed out character. Not only what role they play but also what type of enhanced agent they are helps give further variety to the characters.
+
+
+        In this world the main difference from ours is that the cold war was not between the soviet union and the united states of america. Instead it's between the USSR and the Axis, not only that but it never ended, it changed form but continued. 
+
+
+        In order to decide if some action is a success or a failure, in most cases a D10 is rolled and its result summed with its relevant proficiency, the total is then compared to the difficulty, if the sum is equal or greater than the action is a success. Special cases might exist, such as with complex tasks, the narrator may ask for more than one roll, or in case of contested action, such as trying to hit someone with a melee strike, as the person can attempt to dodge or block the attack, both sides roll 1D10 and sum with the relevant proficiency or attribute, the winner being the one who summed the highest. Some actions might require many rolls, such as shooting an automatic weapon, for this dice are rolled to see how many shots are fired, how many of them hit and how much damage each one does.
+
+
+        Consideration for realism is taken in some aspects, to make the game feel more grounded, for example, damage is not dictated by the weapon but by what caliber of ammo it uses. Firing multiple shots is also difficult, from picking the exact number of shots fired, to hitting the target which becomes more difficult the more shots are fired. Ranges also affect the odds of hitting the target, not only that but different weapons have different ideal ranges, making it easier or more challenging to hit at certain distances.
+
+
+        The most important rule in this game is that everything is subject to change in order to make it more fun, if for example a bonus in rolls for players is not described in the book but makes sense and would be interesting, then do it, see this book as just guidelines or suggestions.
+
+
+Terms and terminology
+Both for in world words and game related.
+
+
+* Advantage: when rolling a test with advantage, roll the dice twice and keep the higher number
+* A.I.C.A.:Armored Infantry Combat Apparatus are infantry-like combat vehicles that are human-like in shape.
+* Angel: an AI made based on a real person, fully in control of humans.
+* Check: a test composed of rolling one 10 sided dice and summing the result with a relevant proficiency or stat and comparing it with a difficulty
+* D: Be it D10, 2D6 or something similar, this means Dice, the first number is the amount of dice, and the second is the number of faces.
+* Daemon: AI without personality or much thinking capabilities, made as tools for specific tasks.
+* Designation: a character's specialization, what they are capable of doing, their role or class.
+* Devil: an AI with free agency and not under the control of humans.
+* Disadvantage: when rolling a test with disadvantage, roll the dice twice and keep the lower number.
+* Full value: the value of the sum of a skill value and its related stat value
+* Hell: parts not indexed in the civilian network, crawling with dangerous things.
+* Infonet: information network open to civilian use.
+* Intranet: a private network with its own security and protocol can be connected or not to the infonet.
+* Mil-E-Info-Net: Military electronic information network, akin to closed internet with high security protocols.
+* M.I.S.S.: Motorized Infantry Special Suit, are armored suits that are used to enhance the capabilities of the soldier using them.
+* N+: number+, example 5+, means the number or more, in the example 5 or more/higher.
+* Narrator: Person responsible for the storytelling and rules of the world and adventure, they control, decide and speak for anything that is not a player character
+* Natural value: The value of a skill or stat without being summed with anything, their value without summing their bonuses.
+* NPC: Non player character, a character controlled by the narrator rather than by a player.
+* Initiative: What determines the order in which characters take actions during a turn.
+* Path: sub designation, some designations allow for multiple paths of leveling up and upgrading.
+* Player: Person who takes the role of a character in the world set by the narrator and takes decisions for this character.
+* Round: all the turns of all the characters involved make a round, the round composed of a turn from every character involved. This does not mean all characters have to act or that they act only once, as status effects such as stuns may interfere with actions each character has.
+* Stat/Skill value: the natural value of a skill or stat summed with its bonuses, skill values are not summed with the stat value.
+* Turn: Space of time in which characters take their actions, usually in combat
+* Type: Indication of technology, whether they are biological, neural, connected, signal or net.
+
+
+________________
+
+
+Introductions        2
+About the content        2
+Necessary for play        2
+About his book and game        3
+________________
+Player characters
+This section is to talk about player characters, how to make and understand them and how they can interact with the world through their mechanics.
+Designations
+These are the roles in the group the characters may take. A character is not limited to a single designation path or even a single designation, they may freely spend their experience points to have multiple designations and paths. To acquire a level on a designation’s path, the previous levels must be acquired first, in order to acquire level 6 in a given designation’s paths, the character must first have acquired level 5.
+Broker
+The broker’s job is to know things, to know people and rumours, to know who to call, and among their contacts, eventually get favors out of them. There are 7 groups from which brokers may invest in knowing, underworld, odd jobbers, law, corp, org, gov and high society.
+
+
+Underworld: Criminal underworld.
+Odd jobbers: All kinds of people, both in legal and not so legal work, usually freelancers and blue collars.
+Law: Law enforcement in general.
+Corp: Corporate and its workers.
+Org: Non governmental, usually not profit centered and not criminal.
+Gov: Government.
+High society: The rich and famous.
+
+
+The table below only indicates type and caliber people who the broker can contact, getting what they want from them and at what price comes at the discretion of the narrator.
+
+
+lvl
+	Under world
+	Odd jobbers
+	Law
+	corp
+	gov
+	high society
+	1
+	pickpockets, street kids, homeless
+	servers, bartender, courier
+	shark lawyer
+	reception worker
+	clerk, menial worker
+	low level worker at a owned property
+	2
+	small time dealers, lookouts grand recruits
+	blue collar workers, usually self employed
+	beat cop
+	low level worker
+	assistants, secretaries
+	servers and caterers
+	3
+	made men, fully fledged gangsters, burglars, angel
+	freelance developers
+	attorney
+	junior worker
+	coordinating staff
+	well paid/elite workers
+	4
+	drug distributor, brothel managers, enforcers, small crews
+	consultors
+	inspector, sergeant
+	senior worker
+	specialized staff
+	small rich
+	5
+	regional lieutenants
+	illegal prize fighters
+	specialist and field specialist(hacker, shock, riot)
+	smaller corp local manager, mid corp specialist, bigger corp experient employee
+	municipal congress cabinet aid
+	property owner
+	6
+	boss’s lieutenants
+	good hacker, good gun for hire
+	detective, attorney office partner, lieutenant
+	smaller corp middle manager, mid corp local manager bigger corp specialist
+	state congress cabinet aid, municipal congress member
+	local property manager
+	7
+	gang leaders, devil
+	snatchers (kidnap)
+	captain
+	smaller corp manager, mid corp middle manager bigger corp local manager
+	federal congress cabinet aid, state congress member
+	new rich
+	8
+	international crime boss, black market tycoons
+	high level hackers and mercs
+	swat, deputy sheriff
+	smaller corp high level workers, mid corp manager bigger corp middle manager
+	federal congress member
+	old money heir
+	9
+	mercenary company heads, rogue state actors, war economy brokers
+	secret information brokers
+	city sheriff, entire attorney office
+	smaller corp executive, mid corp high level worker, bigger corp manager
+	department heads
+	councillors, personal attorneys, personal concierge, estate managers, heads of old money families
+	10
+	warlords, oligarch backed kingpins
+	elite level hacker and assassin
+	chief of police, high level judge
+	smaller corp CEO, mid corp executive, bigger corp high level worker
+	senator, non general high command officer, intel agency handler, agency heads
+	nobility, old money
+	
+
+Desperado
+Desperados are those who fight with a weapon on each hand.
+
+
+Maximum bonus that the offhand may receive is equal to the level of the relevant path.
+lvl
+	handgun
+	smg
+	sword
+	knife
+	1
+	can use handgun with another firearm on the other hand
+	can use smg while having a weapon on the other hand but smg must be on the main hand
+	can dual wield one handed swords
+	can use and throw weapons held on the off hand
+	3
+	missing a high recoil shot with one hand no longer causes the other to also auto miss
+	can use smg on the off hand if the weapon on the mainhand inst an smg
+	can hold and use a sword in the mainhand with a firearm on the offhand
+	can strike enemy with knife and shoot a the same enemy on the same turn
+	6
+	if using handguns akimbo and shooting both at the same target, offhand rolls with advantage
+	can akimbo smgs
+	can hold and use a sword in the offhand with a firearm on the mainhand
+	double the amount of items that can be throw per turn if both hands are throwing items
+	
+
+Drone monarch
+Drone monarchs have robots to aid them in their tasks and in fighting their battles.
+
+
+Mechanics of the drone monarch are tied to the 3 paths of the designation.
+
+
+Amount: How many points of command the drone monarch has, dictates how many drones can be fielded at once, more complex drones need more points of command to be fielded, even with 0 points the drone monarch has 1 point of command.
+
+
+Complexity: The grade of the drones that can be put to field, even without any points on this line the drone monarch may use basic drones that don't have any active actions, drones who essentially just move.
+
+
+Actions: How much of the drone monarch’s time and attention is used to control the drones daemons, at the lowest level the drone monarch may still control a drone, but uses all their actions to do so, if giving the same order to multiple drones, only use as many actions as you would need to command a single drone.
+
+
+Level
+	Points of command
+	Complexity
+	Actions
+	1
+	2
+	Allows use of civilian grade drones, requires 1 point of command to field
+	A single main action is enough to command a drone
+	2
+	3
+	Allows use of industrial grade drones, requires 2 points of command to field
+	Can use quick actions to command as well as main actions
+	3
+	4
+	Allows use of humanoid grade drones requires 3 points of command to field
+	Can now command drones with your free actions up to three per round
+	4
+	5
+	Allows use of military grade drones requires 4 points of command to field
+	Can now order your drones even when its not your turn, this still consumes the drones actions
+	
+
+
+
+Hacker
+A hacker is an expert in using information technology for usually malicious purposes. There are different flavours of hackers, broken into 3 paths.
+
+
+Deceiver: this is the path of social engineering.
+Tech jock: is the path of those who see hacking and coding as a sport.
+Holy diver: for those willing to dive into hell.
+
+
+Deceiver
+	Tech jock
+	Holy diver
+	You are quite good at phishing, when trying to phish someone, add your deceiver level to your computer roll
+	overclock synapse, reduces the amount of tests needed to hack deeper by 1
+	You know how to use the deep web to find black markets wherever you are, as long as that location’s black market also exists in the deep web
+	When trying to spoof, add your deceiver level to the roll, this is for spoofing where you pose as someone else online different from holy diver digital doppelganger
+	You know the systems,  the difficulty multiplier (security*x) is reduced by 1 to a minimum of 1
+	Can now seek hidden data nodes and caches, resulting in extra information or bonuses
+	You know how to use your technical know how to inject trust in others, any social rolls related to your area receives a bonus equal to your deceiver level
+	You are ghost in the machine, it becomes harder to notice you, reduce all system awareness increases by 1
+	If you gather enough data on a user, you can attempt to be their digital doppelganger, imitating their credential based on the bytes of data you gathered, difficulty depends on system security and amount of data collected from hidden nodes and caches
+	Requires all other hacker upgrades. You know how to seek and make backdoors, to seek, roll 1d20 when searching caches and nodes, success on a 20, on a 1, there are no back doors and increase system awareness by 2d4-1(from the tech jock line), to create a backdoor you must be in the system, the backdoor allows you to remotely access at the level it was created, it can be created at a difficulty equal to the security of the level you are, takes only 1 turn, on fail increase system awareness by 2d4-1(from the tech jock line)
+	
+
+Leader
+Unlike the broker, the leader does not have contacts but followers and friends or just people who owe them favor, sometimes just someone who they can pay to do something for them. must say what they do and for who they work for when buying/upgrading the level.
+
+
+Every contact the leader can call upon is made up of 4 characteristics. 
+Amount: how many of them there are usually.
+Quality: numeric representation of how good they are at what they do, when amount is bigger than 1, quality can refers to all members, the average or just the best members depending on type and specifics
+Type: what they do
+reliability: used per type rather than per character defines how reliably they will heed your call for help and how often you may call without decreasing the chances they will come, this uses values for generic situations, if the situation is more dangerous or delicate the narrator may opt to increase the difficulty.
+
+
+Those values are guidelines, for example an emergency doctor, even with an amount of 1 will steam have their small team of aids for surgery and what not, but an amount 1 merc will be on their lonesome unless more people are hired, reliability can be swayed with money and so on.
+
+
+Reliability table
+lvl
+	Result needed on 1d10+related leader level
+	Interval
+	1
+	9
+	once per semester
+	2
+	8
+	once per trimester
+	3
+	7
+	once a month
+	4
+	6
+	once a week
+	
+
+Civie: members of civil society
+Hacker: people who know their way around computer systems to make them do what they shouldn't and take advantage of it
+Medic: healthcare workers
+Merc: mercenaries and guns for hire
+Techie: technology related workers.
+
+
+lvl
+	Civie
+	Hacker
+	Medic
+	Merc
+	Techie
+	1
+	Odd jobber
+	Phisher
+	Intern
+	Soldier
+	Handyperson
+	2
+	Big corp worker
+	Cybersec
+	Doctor
+	Veteran /Commando
+	Project worker
+	3
+	Personal worker of a big shot or important corpo worker
+	L33T H4CKER
+	Emergency surgeon
+	Spec ops /Black ops
+	Engineer
+	
+
+Maker
+Creating and modifying is the maker’s bread and butter. When trying to create or modify something roll 1d10+relevant skill(if available)+relevant maker proficiency, narrator will determine how many and what tests are needed as well as how long it will take.
+
+
+There are 4 paths for the maker, on what they modify and make.
+
+
+lvl
+	Computer
+	Engineering
+	Implants
+	Weapons
+	2
+	can modify simpler or more modular computers and systems
+	lower complexity engineering
+	can do cosmetic modifications on implants without risking breaking them
+	can create and modify attachments
+	4
+	can modify more specific systems like vehicles unboard computer systems
+	mid complexity engineering
+	can attempt to fix implants by yourself or salvage them for parts
+	can craft ammo, materials cost half as much as buying the bullets, rounded up
+	6
+	can work with more difficult systems such as AuxBrains and Net AuxBrains
+	high complexity engineering
+	can attempt to modify implants, such as changing parts
+	can create and modify weapons
+	8
+	whenever you add computer skill to a roll also add maker(computer) to the roll
+	whenever you add engineering skill to a roll also add maker(engineering) to the roll
+	given the right tools you can work on currently installed implants
+	can work on assisted aim weapons and create guided ammo
+	
+
+Martial artist
+The martial artist is the kind of character that can pick up a fight and win without firing a shot or saying a word.
+
+
+lvl
+	Strike
+	Dodge
+	Throw
+	Grapple
+	Armed
+	1
+	+1d2 to chance to hit with unarmed strikes
+	when being attacked in melee roll 1d4 if your roll is higher than the opponents 1d10, you dodged and can counter attack for free
+	+1d2 to chance to succeed when attempting to throw an enemy off balance
+	+1d2 to chance to succeed in grapples and allows to roll to try to disarm enemy, check is 1d10+disarm vs 1d10+melee
+	When attacking in melee using a weapon add your armed level to the chance to hit
+	2
+	change the bonus of 1d2 to chance to hit for 1d4 and add 1d2 damage to unarmed strikes
+	change 1d4 for 2d4
+	change the 1d2 bonus to 1d4, if a throw is success full deal 1d4 damage that stuns on a 4
+	change the 1d2 bonus to 1d4, if using a melee weapon like knife, sword or bat, roll to disarm with advantage
+	can declare that will do a single attack rather than multiple, so roll to hit only once, if succeeded roll damage for the maximum possible number of attacks with advantage
+	3
+	bonus to chance to hit is now 1d6, damage is 1d4 bonus and attack 2d4(rather than regular 1d4) times with unarmed strikes
+	change 2d4 for 3d4
+	change the 1d4s from above to 1d6, now successful throws stuns on 4, 5 and 6 damage
+	if successfully disarmed an enemy and have 1 hand that can be free such as when holding a pistol or knife, you now have the enemy weapon
+	add dexterity to bladed weapon damage
+	
+
+Medic
+Almost as important to not getting hurt, is knowing what to do when someone inevitably gets hurt. For that the 4 paths of medicine are more than useful, making the medic a well rounded designation.
+
+
+
+
+lvl
+	Surgery
+	Emergency care
+	Psy
+	Synthesis
+	1
+	Can perform emergency or field surgeries, these tests have increased difficulty depending on how less than ideal the situation is
+	add emergency care level to first aid tests
+	Can make use of evaluation documents made by someone else
+	Can do simplest of extraction and synthesization on a kitchen
+	3
+	You know to make it hurt, if someone is already at least lightly wounded, you can make them hurt, rolling all melee damage with advantage and depending on damage can cause target to have to make a resolve check not to drop weapon or fall
+	Can now roll to look for substitutes for medical gear, like whiskey for rubbing alcohol, metal pipes for splint, clean cloth bandages etc
+	Psychological assessment, during conversation can attempt to assess the psychological state of the target, if succeeded gives +1 to all social interactions with target until conversation end
+	Can synthesize over the counter drugs and low quality toxins on a simple lab, takes 1d4 hours, costs 3d20 and produces 1d6
+	5
+	Can install implants, and uninstall them without damaging them
+	Reduce the number of turns needed to stabilize a character by emergency care level to a minimum of 1
+	Mental disruption, if a psychological assessment is made, can now disrupt the targets thought process during conversation giving them a debuff of -2 to brain and social
+	Can synthesize buzzers and vibes and regular toxins on a simple lab, takes 1d4 hours, costs 3d20 and produces 1d6
+	7
+	Can now perform emergency surgery on self
+	Reduce the debuff taken for performing surgery under less than ideal situations by the emergency care level to a minimum of 1
+	Evaluation document, with 3 successful psychological assessments of the same character, can create a Evaluation document making bonuses of lower levels permanent when talking to said character
+	Can synthesize trippers and potent toxins on a simple lab, takes 1d4 hours, costs 4d20 and produces 1d6
+	9
+	High complexity surgeries like open heart surgery
+	No longer roll your 1d10 on first aid tests, get an instant 10
+	Can treat someone who taken mental state damage, causing the damage to halved, takes amount of sessions = to damage taken, maximum 1 session a day
+	Can synthesize designer drugs on a lab, and hard to detect poisons and venoms, takes 1d4 hours, costs 5d20 and produces 2d4-2 drugs or 1d4-1 toxins
+	10
+	Brain surgery and brain implant installation
+	Can spend 1 full turn(main, quick and free actions) to heal a character for 1d10 vitality, can only be done once per character per day
+	roll all social rolls with advantage
+	Can synthesize PEDs and weapon grade toxins on a simple lab, takes 1d4 hours, costs 5d20 and produces 2d4-2 PEDs or toxins of choice
+	Ninja
+Ninjas as they are called are masters of stealth and subterfuge.
+
+
+Assassins are experts of making use of their stealth to increase their lethality.
+Operatives are commandos, soldiers through and through, staying out of sight with tried and true tactics
+Spies are the most sociable among the ninjas, but just because you them doesn't mean you know what they are or their work
+
+
+lvl
+	Assassin
+	Operative
+	Spy
+	1
+	When in dark or shadow, add your assassin level to you subterfuge rolls
+	You know how to blend in, when using appropriate camouflage add your operative level to subterfuge rolls
+	You know how to hide your weapons, add your spy level to have them not be noticed, including during pat downs
+	3
+	Add your assassin rate when trying to subdue or kill a target in stealth without a sound or getting bloodied
+	When acting from stealth all your coordination rolls are done with advantage
+	Quick draw, when the spy chooses to break stealth they act first, not needing to roll for initiative
+	5
+	When done from stealth all roll to hit and damage from bladed weapons are done with advantage, when out of stealth choose either roll to hit or damage
+	Two to the heart, one to the mind, when from stealth the operative may shoot up to 3 shots using precision arms skill, rather than just 1
+	The spy rolls subterfuge with advantage when trying to do something in plain sight while not trying to not be noticed
+	7
+	Any damage or death caused by the ninja with melee is now completely silent, not even the thump of the body hitting the floor
+	When shooting from stealth if the operative kills their target, they may attack again with their quick action
+	The spy can now take the clothes/uniforms and pretend to belong, they don't roll with disadvantage, rolling subterfuge normally
+	9
+	All damage done from stealth is doubled, this stacks with the same bonus from the other ninja paths
+	All damage done from stealth is doubled, this stacks with the same bonus from the other ninja paths
+	All damage done from stealth is doubled, this stacks with the same bonus from the other ninja paths
+	
+
+Officer
+You order, the rest obeys, if they know what's good for them. Its orders only affect one person at a time, and for the character to receive the bonus they must obey the order. Orders must be specific actions like shoot at target, hack this system, and so on.
+
+
+1
+	give order as main action, adds 1d2 to target’s chance to succeed if they obey the order
+	2
+	can now give order as quick action
+	3
+	can now give 2 orders per round 1 as main action and 1 as a quick action
+	4
+	on 1 change the 1d2 bonus for 1d4 
+	5
+	Instead of giving the order bonus as a increase to chance to hit, can now give it as damage bonus, this will have no effect if the attack misses but the order will be wasted
+	6
+	on 1 change the dice bonus to 1d6
+	7
+	can now give 1 order per round as a free action
+	8
+	can now give order during ally’s turn(only once, the quick action one)
+	9
+	can now give 3 orders per round 1 as a main action, 1 as a quick action and 1 as a free action
+	10
+	can now use orders to debuff the enemy instead, be it chance to succeed or damage and can give general orders, meaning whoever does what is ordered receives the bonus
+	
+
+Sharpshooter
+Strike true, and you only need to strike once. The sharpshooter is all about fighting from afar, attacking from safety and doing high damage.
+
+
+1
+	once a day, when using a precision rifle, you can declare, at the start of the round that you will add your sharpshooter level on your chance to hit or damage
+	2
+	increase roll to hit when using rifle and shooting with precision skill by 1d2
+	3
+	no longer take debuff from multi shooting precision rifles up to an amount equal to sharpshooter level
+	4
+	increase roll to hit when using rifle and shooting with precision skill by 1d4 instead of 1d2
+	5
+	when firing a precision rifle, if you can properly support the barrel(such as laying down and using a bipod) add your sharpshooter level to your roll to hit
+	6
+	increase roll to hit when using rifle and shooting with precision skill by 1d6 instead of 1d4
+	7
+	when using rifle and shooting with precision skill roll damage with advantage
+	8
+	treat enemy cover as being one level lower than it actually is when shooting with a precision rifle
+	9
+	if the enemy distance is different than your precision rifle ideal distance, treat it as being 1 distance closer to ideal(example rifle with ideal distance of long and enemy at distance of medium, will instead be as if enemy was at medium long distance)
+	10
+	you know how to aim where the enemy is not protected, pick even or odd when rolling for damage, if picked right, ignore half of the enemy’s armor rounded down
+	
+
+Understanding the sheet
+The sheet is where all the character’s information goes, it is used to consult values for checks and any other details about the character in question. This section is about player characters sheets, NPCs use more simplified sheets that will be talked about later.
+
+
+The sheet is made thinking it's meant to be used digitally, allowing to change the size of tables.
+
+
+Header
+The first part of the sheet is the header, as shown below.
+Name
+	
+
+	Vitality
+	
+
+	
+
+	XP
+	0
+	10
+	Wounds
+	light (-2)
+	moderate (-4) 
+	severe (-8)
+	Designation
+	
+
+	Slots
+	
+
+	33
+	Mind state
+	
+
+	
+
+	Wallet
+	
+
+	
+
+Name: The character’s name, has no mechanical use.
+XP: The character’s experience points are represented by two numbers, the first is how much XP has been spent, and the other is how much XP the character has gained in total.
+Designation: Where you keep track of the character’s designation and paths, noted as “designation(path x, path y)” where designation is the name of the designation, path is the name of the path and x and y are the levels of the paths.
+Mind state: A numeric representation of the character’s current and maximum mental health and wellbeing. Can be reduce by installing and using implants and enhancements or from traumatic events.
+Vitality: How much punishment the character can take, the first value is their current vitality, the second is their maximum vitality.
+Wounds: Represent the point at which when below in vitality the character is affected by the negatives to their rolls. Despite not being noted on the sheet, characters die when their vitality is of a negative value greater than the character's full resolve if they were stabilized or resolve skill value if they were not stabilized.
+Slots: How many slots in the character’s body are already filled with implants and enhancements.
+Wallet: To keep track of the money the character currently has, measured in Kz(Angolan Kwanza).
+
+
+Stats and skills
+Stats and skills are what is used to define the value added to the character’s rolls. Stats are overarching, and each have 5 related skills they affect. Full values are the values of the sum of the skill and stat with their bonuses from enhancements, it's used when doing checks that use the character’s main action. Skill value means the value of the skill with its bonuses but without summing with the stat value, and is used for checks made during the character’s quick actions. Natural value is the value of the skill or stat without any bonuses, it is used to calculate the XP price for leveling up the skill or stat.
+
+
+Stats and skills have their natural value limited to 10, but their total can
+
+
+Firstly how to represent the values on skills, take this example:
+
+
+physical
+	throw
+	6(+2)
+	2(+1)
+	8
+	11
+	In this example Physical has a natural value of 6 and +2 from enhancements as shown in the second line of the first column, in the third line of the first column is the Physical’s natural value summed with its bonus. The throw skill has a natural value of 2 and +1 from bonus as shown in the second line of the second column, in the third line of the third column is the full value of throw, that being its value + the stat value, meaning when using throwing weapons as a main action, the character rolls 1d10 and sums the result with 11.
+
+
+Now for a breakdown of all Stats and skills.
+
+
+physical
+	throw
+	melee
+	endurance
+	high recoil
+	athletics
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	coordination
+	precision
+	larceny
+	subterfuge
+	dexterity
+	agility
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	brains
+	first aid
+	electronics
+	culture
+	computer
+	engineering
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	nerve
+	resolve
+	driving
+	automatic
+	defense
+	awareness
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	social
+	persuasion
+	intimidation
+	deception
+	sense
+	vibe
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	
+
+Physical: Bodily capabilities and overall fitness.
+        Throw: Throwing weapons such as knives, shurikens and grenades.
+        Melee: Hand to hand combat and use of melee weapons.
+        Endurance: Physical resistance from tiredness and pain.
+        High recoil: Use of high recoil type weapons.
+        Athletics: Capability to perform athletic feats like running and jumping.
+Coordination: Capability to make quick and precise use of one's body parts.
+        Precision: Use of precision type weapons, alternatively firing any weapon once.
+        Larceny: Criminal abilities, pickpocketing, forging documents, star car without keys… 
+        Subterfuge: Act in stealth, stay or act unseen or unnoticed.
+        Dexterity: Fine and precise motor control.
+        Agility: Quickness with which one reacts to outside stimuli.
+Brains: Mental capabilities and intelligence.
+        First aid: Giving first and emergency preliminar medical help.
+        Electronics: Knowledge on how electronics and electronic systems work.
+        Culture: Cultural knowledge, from history to sports, to fashion to politics and more.
+        Computer: Knowledge on computers, coding and related subjects.
+        Engineering: Understanding of electric and mechanical workings.
+Nerve: Steadiness and keeping your head in place.
+        Resolve: How resolute the character is and their willpower.
+        Driving: Driving a vehicle, specifically under stress situations.
+        Automatic: Handling of automatic weapons.
+        Defense: Protecting oneself, taking cover, dodge, duck, dip and dive.
+        Awareness: Capability to notice details and that which is hidden.
+Social: Interpersonal skills.
+        Persuasion: Convincing someone to your way of thinking.
+        Intimidation: Instill fear in others.
+        Deception: Lie and deceive, convince of falsehoods.
+        Sense: Read someone, their state, their motives.
+        Vibe: Pass the impression you want to pass.
+
+
+Equipment
+The gear carried by the character is broken into 3 sections, their equipped weapons, their equipped armor and the gear they carry in their pockets and pouches.
+
+
+For equipped weapons, the below table is filled with two example weapons.
+
+
+Weapon
+	caliber
+	ammo
+	Rate of fire
+	Ideal range
+	attachments
+	weapon name (type)
+	caliber (variant) (damage)
+	X
+	Y
+	N
+	range
+	Msight(+2 medium), foregrip(-1 debuff autofire), suppressor, flashlight
+	assault rifle (automatic)
+	.41 wolfhound (tracer) (2d6+2)
+	25
+	32
+	5
+	medium
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Weapon: The name of the weapon and its related skill.
+Caliber: The caliber the weapon uses, if a variant is loaded in the weapon, and the caliber damage.
+Ammo: X is how much ammo is left in the magazine and Y is the total ammo the magazine can have.
+Rate of fire: Maximum number of times the weapon can be fired per main action.
+Ideal range: The distance that this weapon is meant to be used in combat.
+Attachments: Any attachments or modifications applied to the weapon.
+
+
+For armor the below table is used, also filled with example armor.
+
+
+
+
+	Helmet(Bike helmet)
+	Vest(heavy aramid)
+	Other(good boots)
+	Protection
+	8
+	16
+	0
+	Effect
+	-2 to awareness
+	-1 physical
+	-1 terrain debuff
+	Protection: How much damage the armor reduces.
+Effect: Any additional effect the equipment might have.
+Helmet: Armor for the head.
+Vest: Armor for the body.
+Other: Any additional body gear and armor.
+
+
+Finally for the other gear the character can carry on their pockets and pouches, it's represented on the below table along with examples.
+
+
+Item
+	count
+	description
+	assault rifle mag(32) tracer
+	2
+	m4 magazine, full with tracer rounds
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+In it an assault rifle magazine is stored, with 32 bullets in it and they are tracer rounds, in that pocket there are 2 of those mags, and description is for notes on the item.
+
+
+Implants
+Implants have a long table for the slots in each body part. The body parts are for what part of the body the implant is installed on and taking space.
+
+
+The body is broken into these parts for the purposes of implant installation:
+Brain
+Eyes
+Head
+Internal
+Dermal
+Skeleton
+Spinal cord
+Arms
+Legs
+
+
+Abilities
+A simple table to keep track of abilities bought with XP and what they do.
+
+
+Log
+This is for keeping logs of all changes done to the sheet, as in the example below.
+
+
+
+
+LOGS
+	1
+	IN SHORT
+	IN FULL
+	2
+	+1 physical(X to Y)(like from 5 to 7)
+	installed muscle implant on internal slot
+	3
+	+1 computer(X to Y)
+	story reward for helping G1LV4R0TH the hacker
+	4
+	+1 intimidation(X to Y) -1 persuasion (seduction)(X to Y)
+	Receive a nasty scar across the face during a firefight with a runway criminal that resulted in flak from an explosion hitting in the character’s face
+	5
+	+1 persuasion (seduction), -1 intimidation (X to Y)
+	Plastic surgery and stem cell treatment to fully heal from scar received at line 4
+	6
+	+1 sniper(X to Y)
+	Z amount of xp spent to go from level X to level Y
+	
+
+Creating the player character
+Creating a player character is a task best done in steps, but can also be done by starting the players with everything at 0 and giving them XP to spend. Initially name the character and choose your designation and take one level in one of its paths, the amount of money the character starts will depend on the narrator, between 500 and 1500 is recommended. The rest of the header will be filled out later in this chapter, on the “Derived numbers” subchapter.
+Distribute stat points
+For explanation on the stats, please check “Understanding the sheet; Stats and skills”.
+The amount of stat points to be distributed depends on how strong or how vulnerable the group wants the player characters to feel from the start of the game. With 25 points it's possible to put all stats on 5, so it's recommended to let the players distribute between 20 to 30 stat points. When leveling up a stat after character creation, increasing a stat does not give points to distribute on skill.
+
+
+If you would like to generate a random spread with set minimums and maximums for stats, you can use this python code:
+from itertools import product
+
+
+# Define constraints
+min_val = 1
+max_val = 10
+total = 25
+num_categories = 5
+
+
+# Generate all valid distributions
+valid_distributions = [
+    combo for combo in product(range(min_val, max_val + 1), repeat=num_categories)
+    if sum(combo) == total
+]
+
+
+index = 2233 //max value for 1, 10, 25, 5 on the variables
+//other values on the variables will have different indexes
+
+
+if index < len(valid_distributions):
+    print(f"Distribution #{index + 1}: {valid_distributions[index]}")
+else:
+    print(f"There are only {len(valid_distributions)} valid distributions. Index {index + 1} is out of range.")
+
+
+	
+
+To modify the code, here is an explanation of the variables:
+min_val is the lowest value a stat can be.
+max_val is the highest value a stat can be.
+total is how many points there are to be spread.
+num_categories is over how many categories(stats) the numbers will be distributed, you can alter this if you already know how many points you will place on one or more stats.
+index is the number of the spread you want, as this code will run through the possibilities until it gets to your chosen number, then display it.
+
+
+Distributing skill points
+For explanation on the skills, please check “Understanding the sheet; Stats and skills”.
+Skill points can be distributed using the code given for the stats, it has an additional rule. The natural value of a skill cannot be higher than its overarching stat’s natural value.
+
+
+The amount of points that are to be distributed in a skill is equal to how many points its related stat has. When leveling up a stat after character creation, increasing a stat does not give points to distribute on skill.
+
+
+Derived numbers
+In the header there are spaces that need to be filled, but they require first knowing stats and skills, here is how you calculate them.
+
+
+Vitality: Maximum vitality is calculated by multiplying the full value of endurance( that being endurance + its bonuses + physical + physical’s bonuses) multiplied by 3.
+Wounds:
+        Light: when below the value of maximum vitality - endurance. When below that value(but above other wounds thresholds) take a -2 penalty to all rolls.
+        Moderate: when below 2 thirds of the maximum vitality(but above below wound), take a -4 penalty to all rolls.
+        Severe: when below 1 third of the maximum vitality, take a -8 to all rolls.
+        Death: Despite not being noted on the sheet, characters die when their vitality is of a negative value greater than the character's full resolve if they were stabilized or resolve skill value if they were not stabilized.
+Mind state: Maximum mind state is given by the formula (brain stat value + nerve stat value)x2 + resolve x 4 + 20. When creating a character it's usual to start with their mind state at its maximum.
+Gearing up
+Before spending money it is recommended that the narrator let each character start with 1 weapon, 1 implant, 1 piece of armor or gear and some ammo for free, but at a total value similar between all characters, around 2,500 to 10,000 Kz is the recommended value .At this point the player can use the character’s initial money to buy equipment, weapons, ammo and implants. During character creation it is recommended to ignore all price modifiers.
+
+
+Leveling up
+After creating the character and accumulating some experience points, it's possible to upgrade the character’s skills, stats and designation without use of implanted enhancements.
+
+
+To level up into a new level, it's necessary that the character already has acquired the previous level. In order to use XP to buy level X, the character must first be on level X-1.
+
+
+Below are the costs of upgrading each category:
+Designation: 10 x new level
+Stat: 20 x new level
+Skill: 5 x new level
+
+
+System
+This ttrpg system is made aiming to allow both interesting and lethal combat to take place as well as tense but rewarding out of combat interactions.
+
+
+Checks
+Checks are tests done using a 10 sided dice and either the full or the skill value of a related skill. Checks while most often done with the values of skills, at times a narrator may call for a stat skill. Whether a check is done with a skill’s full value, their skill value or their natural value will depend on the situation and most importantly, at the narrator's discretion.
+
+
+Checks using a skill’s full value are usually done when the character is using their main action to perform the action that requires the check. Checks with skill value are done when the performed action that necessitates the check is done with the character’s quick action.
+
+
+Other than the modifiers from skills and stats, checks may also receive positives or negatives modifiers due to the situation. For example poor visibility makes subterfuge tests easier but hitting a shot harder.
+
+
+Below are examples of checks with each skill. If a test could fit two or more different tests the narrator may choose the most appropriate, the one the character has more chances of succeeding or ask for both tests and make a decision based on the results.
+
+
+Physical.
+        Throw: throw a dagger and hit the target, accurately toss a grenade.
+        Melee: land a punch, hit an enemy with a bat, cut an enemy with a knife
+        Endurance: perform physically taxing task without tiring or stopping
+        High recoil: fire high recoil weapon accurately
+        Athletics: perform physical task well such as running fast and jumping high
+Coordination.
+        Precision: fire precision weapon accurately
+        Larceny: pickpockets, start car without keys, convincingly fake documents
+        Subterfuge: sneak past enemy, slip poison on someones drink, take item unnoticed
+        Dexterity: precise bodily manipulation
+        Agility: act and react fast
+Brains.
+        First aid: clear self or ally of an effect such as bleeding, stabilize ally
+        Electronics: understanding, breaking or fixing electronic system
+        Culture: knowing about necessary subject like gang leaders or history
+        Computer: understanding the workings of computers using them and coding
+        Engineering: understanding, breaking or fixing mechanical/electric system
+Nerve.
+        Resolve: power through pain, don't get knocked unconscious
+        Driving: losing a tail, race, avoid collisions
+        Automatic: fire automatic weapon accurately
+        Defense: make yourself more difficult to be hit
+        Awareness: seek clue or object, notice detail such as if someone is armed
+Social.
+        Persuasion: convince seller to give you a better price
+        Intimidation: intimidate opponent into inaction
+        Deception: convince a bouncer you are expected in the VIP area
+        Sense: read a person’s intentions and demeanor
+        Vibe: make yourself be perceived as you want, harmless, badass, rich…
+
+
+Actions
+Anything a character wants to do will use actions. These are more used in time sensitive scenarios and when multiple characters are trying to perform actions that can be consequential to other characters. Characters may only use their actions during their turns.
+
+
+There are 4 types of actions. Each character has 1 main, 1 quick and 1 free action per turn.
+Full actions: while not common full actions are used when when to perform the action the character’s entire turn is needed, meaning it uses their main and quick actions.
+Main actions: these actions roll checks using the related skills full value, these are the actions used for combat such as shooting, reloading and striking. Main action may also be used to run a distance equal to the athletics skill full value in meters.
+Quick actions: this type of action rolls their checks using the related skill value, so without summing it with stat but summing it with other bonuses applied to it, it may also be used to move while performing a main action for a distance equal to eht athletic skill value.
+Free actions: actions small and quick, that don't require checks, such as turning on or off a flashlight, or speaking.
+
+
+Combat
+Combat happens in rounds that are made up of turns that happen in a certain order. A standard round will have each character involved in combat having their turn in which they can use their actions. Not all rounds will have all characters acting exactly once, effects can apply to both prevent characters from performing their actions or to give characters more actions.
+
+
+Starting the fight
+When starting a fight, if one of the sides was caught by surprise, this side of the fight will not act during the first round, and have their turns after the opposing side’s turn. To decide the order of turns, all participants do an agility check using their agility’s full value. Those who summed higher values have their turn first, in order of higher to lower. If there is a tie, the character with the higher agility skill value acts first, if that's not enough to untie then reroll to decide who acts first among them.
+
+
+Dealing damage
+After the fight has started, it's time to take steps to end it. To deal damage your attack must first connect.
+
+
+To hit an opponent with a melee attack, do a test between the attackers 1d10+melee full value versus targets 1d10+melee full value, unless the enemy has used an action with the defense skill, which then adds its value as bonus.
+
+
+Hitting a shot is more complex, there are 3 different skills that using a firearm may require.
+
+
+Automatic: amount of shots fired increase the difficulty of the shooting test, shots that hit are how much higher the success was up to a max of number of shots fired. Ex firing 3 shots on a difficulty 10 test turns it on a difficulty 13, if a 15 is rolled 2 shots hit, if a 16 or anything above is rolled all 3 shots hit.
+
+
+High recoil: first declare how many shots then must roll for every shot each increase difficulty by 1, and once 1 shot fails, all others after it fail too. Ex 5 shots fired, first and second hit, third misses, so forth and fifth also missed without needing to roll.
+
+
+Precision: must roll for every shot, every roll increases in difficulty by 1, unless only 1 shot is fired. Ex 5 shots fired at difficulty 10, first shot must sum 11 to hit, second must sum 12 and so on, if only 1 shot is fired it needs only to sum 10 not 11. Any weapon that is only fired once(even if it can shoot more per turn) can opt to use precision skill instead of its original skill except special weapons.
+
+
+Special weapon: these don't have a related skill, as they are more unique in use, in the weapon sheet it should list the test for using it.
+
+
+Damage is dealt if the check is passed. Firearms have their damage dependent on their caliber while melee weapons must also have their damage stated. Unarmed strikes do damage equal to their result on the 1d10 summed with their melee skill full value divided by 10 and rounded up.
+
+
+There are 2 main modifiers for damage dealt. The first is melee from stealth which can result in instantly killing or knocking the enemy out depending on the result, this has a difficulty set by the narrator, but should take into consideration the target’s melee and possible variables such as their armor. Secondly are exploding dice, when the result of a check is either a critical or overwhelming success, the damage dice can now explode, more detail below.
+
+
+A critical success is when not only the check is passed, but the result of the d10 rolled is a 10. An overwhelming success happens when the sum of d10 and relevant skill is more than double of what is needed for the test. Both of these allow for dice to explode once, but if both are achieved at the same time dice may explode as many times as they roll maximum roll. When either of those happen when shooting with a firearm the shot hits the target in the head.
+
+
+Exploding dice means that when a damage dice rolls its highest possible number it is rolled again and the result of both rolls are added to the total damage dealt. If both a critical and overwhelming success are achieved on the same check, there is no limit to how many times the dice can explode.
+
+
+Called shot is a rule that allows for characters to aim at specific body parts, this is done by having to do the test to hit with disadvantage.
+
+
+When an attack hits the head all damage is done with advantage.
+Mitigating damage
+Damage is not always dealt as a flat amount, it can be reduced by armor. Armor has a number representing the protection offered, this is the amount of the damage that is reduced by the armor. As armor protects its wearer’s it also degrades by the amount of damage that passes it, so the damage taken by the wearer and the mount that the armor degrades is the same. For example a character with armor with protection 6 is hit by an attack that deals 8 points of damage, 8-6=2 so the character takes 2 points of damage and the armor degrades by 2 going from 6 to 4.
+
+
+Healing
+Characters can heal naturally up to the threshold of the wound they are currently on. Without medical attention characters heal 1 point per week.
+
+
+Medical attention increases healing speed to 1 point per day, but comes at the price of 100 Kz per point healed times the amount of points healed. It can be simplified into the formula 2 x H x 100, where H is the amount of vitality recovered.
+
+
+Conditions
+Strait vitality loss is not the only kind of harm that may be suffered by characters. These conditions vary on how they can happen, what happens to those affected by it and how they can be treated. Most of them can be at least attempted to be taken care of on the field, not needing hospital care.
+
+
+These conditions dont have well defined rules, this section is meant as guidelines and suggestions for the narrator to use during the game.
+
+
+
+
+Condition
+	Explanation
+	Treatment
+	Concussion
+	Blunt force trauma to the head. Any blunt force damage to the head above 5 could cause the character to need to roll a resolve check to not fall unconscious..
+	Not much that can be done immediately, just resting and ice.
+	Blood loss
+	Shots or cuts that hit veins and arteries can cause blood loss which comes with damage over time and negative effects on roll due to dizziness.
+	Pressure can help with light bleeding, bandages and torniques for more serious cases, but may need surgery.
+	Dislocated joint
+	Joint has been dislocated from its normal position, and can cause limbs affected to become unstable.
+	Having someone to help that rolls a first aid check can put the joint back in place.
+	
+
+Hacking
+Hacking broadly refers to the act of making use or manipulating information systems and technology for ulterior reasons. While complex and difficult, all characters may attempt to hack, not only those with the hacker designation.
+
+
+General hacking
+In hacking there are several levels or depths of access, the deeper they are the more capability for harm there is. All systems are protected by a system defense, this is just the name for the number representing the difficulty of hacking this system, the value depends on the system.
+
+
+Depth
+	Description
+	Capabilities
+	Examples
+	User
+	Lowest level access, can basically only do simple input and output and have very limited access to anything sensitive
+	Basic interactions with public level data, modify personal settings(mainly aesthetics), it's a door for social engineering and phishing
+	Access open documents and media, contact other users, changing non important settings
+	Privileged
+	A step above user the privileged level has some extra powers given by admin like elevated permissions
+	Access to restricted files and non core system settings, limited level admin tasks like resetting user passwords
+	Acessings sensitive and personnel data, installing non driver software, check logs
+	Admin
+	Full control and manipulation over the system
+	Change system wide settings, create, modify and delete users, system level commands like rebooting or shutting down security protocols, change other user’s privileges, affect device drivers
+	Modify firewall rules, install rootkits, create backdoors, disable alerts and security measures, falsify system logs
+	Drivers
+	Interfacing with hardware
+	Manipulate, disable and possibly destroy hardware, rewrite driver code, intercept, copy, alter and redirect device data, firmware manipulation
+	hijacking and spoofing sensors, manipulate or disable specific network communications and device communications, introducing vulnerabilities to be later exploited
+	Kernel
+	Deepest level of control, access to the very core of the operating system
+	Modify and manipulate low level system processes even inject malicious code into the OS itself, apply self replicating code and/or code that hides itself both to be made harder to remove, bypass all levels of permission nearly impossible to detect or block, control all aspects of the system at an invisible level, manipulating files and logs without being detected
+	installing hiding rootkits, installing self replicating code, full control of OS including altering or even destroying critical information and processes, disabling or changing security protocols making it nearly impossible to be traced
+	
+
+Diving deeper
+When trying to dive deeper, characters can take as many tests as they succeed, only needing to wait for a next turn when failing.
+
+
+Depth
+	Difficulty
+	user
+	Easiest level, either no difficulty if physically accessed or just the system defense level, failing a test at this level increases system awareness by 1, at this level if system awareness is higher than 7(alerted) if no hacking action is done must pass a test of system defense as difficulty
+	privileged
+	No test if using physically a machine with privileged level, otherwise to reach privilege must first be user level, then succeed 2 tests of system defense*2, at this level if system awareness is higher than 4(suspicious) must pass a test with difficulty fo system defense*2 if no hacking action was done, at this level all failures increase system awareness by 2
+	admin
+	Either access physically a machine with this level of permission or must first be at privileged level and pass 3 tests with difficulty system defense*3, at this level all failures increase system awareness by 3, if no hacking action is done must pass a test with difficulty of system defense*3 when system awareness above 4(suspicious)
+	driver
+	To access this level must have admin level and pass 4 tests with difficulty of system defense*4, at this level no longer increase system awareness but on a failure by rolling 1 on the 1d10, roll it again, if its a 1 again, your access is ejected and go back to square 1, now can only go as high as admin.
+	kernel
+	To access this level must have driver level and pass 5 tests with difficulty of system defense*5, at kernel level the only way to get rid of the hacker is to fully disconnect and then resetting the kernel
+	
+
+Hacking non net devices
+All non net devices are intranets.
+Implants are treated as an intranet by default, this is changed if there is a Signal implant that can be used as an entry point, and if there is a Net implant it is like any other infonet connected device. To hack a connected implant one must first hack either signal or net that is connected to them. Most hacked implants can only be meaningfully affected on a device driver or kernel level, due to their very nature, with exceptions or auxbrains and net auxbrains for example.
+
+
+Documents are often still made in paper, for physical markers are difficult to be replicated and to avoid virtual copies.
+
+
+System awareness
+The side being hacked has the chance of noticing what is happening and proceed with counter measures, some conditions like failing rolls can increase this awareness
+
+
+Awareness
+	State
+	Description
+	Response
+	0
+	Dormant
+	No unusual activity detected
+	Nothing, normal behaviour
+	1-3
+	Blip
+	Something minor detected, glitch, delay, anomaly or just odd behaviour
+	Logged as noise, still no reaction
+	4-6
+	Suspicious
+	Repeated blips or strange behavior or actions detected
+	Passive scans begin, increase all difficulty by 2 and more data is logged to be reviewed
+	7-9
+	Alerted
+	Clear evidence of intrusion
+	Active scans and defensive programs and prep means all test must be taken twice(amount of rolls to go deeper is not affected but number of times they must be done is doubled)
+	10
+	CounterActive
+	System knows its currently under active attack
+	all systems to max, counter hackers(possible including AIs) are at work rolling to trace/stop/counter hack, partitions are being locked down
+	
+
+Narrators are incentivised to be creative on what happens when players are caught fully or partially hacked, the defending side could just expunge them, close their access point or even attempt to track from where the attack is happening
+Intranets
+
+
+Intranets are closed networks that cant be accessed from the outside, and most often need a physical contact point to be accessed. It's inside these intranets that most of what is important will be placed, such as security systems, sensitive communications and files. Once accessed from a signal or physical contact point, hacking an intranet is like hacking any regular system.
+
+
+Frontiers and hacking
+The net has frontiers much like the real world, these can be tight or loose. The borders between nations' nets come with extra security, like moving a car. It's easy to go from street to street or town to town but moving states and countries and you can find extra security, especially depending on your country of origin and destiny. This results in extra difficulty on the hacking tests.
+
+
+AIs
+AIs may be used when hacking systems to aid in the process. Treat the AI as its own character if it is an angel or a devil and as a tool for daemons. Daemons may be acquired like any other item.
+
+
+AIs are made of 2 parts: the Syntellect and the LogiCore. The Syntellect is the ‘mind’ or psych of the AI, the LogiCore is the physical hardware in which it exists, is stored and runs processing. LogiCores don't have to be a single place the AI could be scattered on various machines, this has the security but also makes them slower and needing more storage and processing for failsafes in case of damage to data and to keep synchronized.
+
+
+3 kinds of AIs exist: Angels, Daemons and Devils.
+
+
+Angels are AIs based on real people, these AIs come from having a recording device installed on the person, the better the device the more information it can gather like physiological reactions. All this information is used to create an AI that can simulate the person after their death. The device does not capture the person’s thoughts so no Angel is a perfect copy of the deceased. Usually they are the ‘weakest’ type of AI, as they must first simulate the person based on that, from there get what their decisions would be, however they are usually still better than humans as their entire existence is intrinsically connected to the input and output methods of computers.
+
+
+Daemon is the most generic term of AI, Daemons are truly artificial, and they can be from generalists to highly specialized tools, but that's what they truly are, tools. Daemons are not intelligent as Angels and Devils are, they are not capable of thought in the same way as they are, and are much less capable of coming up with anything new, even just remixing existing things.(As Daemons are tools mechanically this means the player must use an action(have to decide between quick or main action, maybe starts as main but can become quick with a talent/skill) to instruct the Daemon on what to do)
+
+
+Devils are what happens when a Daemon is not a tool or when an Angel is not human. They are capable of independent thought, or as much as an AI can. Differently from Angels and Daemons, Devils operate on their own, like their own people, which means they can have thoughts and don't align with humans or the powers that be, hence the name. At the best of times dealing with Devils is both dangerous and likely best kept to yourself, as even some of the most unscrupulous hackers look down on it, at worst it's a crime met with death, creating one is out of the question. Due to their natures, to make use of their abilities, a deal is usually made, this can be like a pact or even closer to just asking a friend for a favor, as Devils act like independent thinking creatures. Devil hunter is even a specialized job, seeking, capturing and/or destroying in whole or in part their LogiCore(s) can pay quite well, same with the much more dangerous task of destroying their Syntellect through hacking, this however leaves their LogiCore able to recovered and sold and even could let you make use of part of the Devil’s code, like to make Daemons.
+
+
+Lore
+This section is dedicated to talking about the world in which this ttrpg takes place.
+
+
+History
+Here is a summarized version of the history of this world from the point at which it diverts from ours.
+
+
+World war 2
+When the Japanese learned the united states had broken their diplomatic cryptography, they assumed they were close to or had already decrypted their military code. With that in mind the Japanese cancelled operation k. This resulted in collaboration with germany due to their experience with U Boats and cryptography, which eventually allowed the new japanese submarines based on I400 class to strike the western shore of continental united states. Among the fear and shock of having their territory struck for the first time since their civil war, the american population demanded their leader to stop the fighting and so the united states was out of the war.
+Cold war
+The cold war was a shadowy conflict happening between the axis and the USSR. As they bordered each other in a Europe now consumed by both sides an uneasy peace was reached, as both planned to get the upper hand. 
+
+
+As neither side knew whether the other had nuclear capabilities, neither were willing to risk a direct assault, and neither would want the other to know that they held such powerful weapons. Proxy wars and guerrilla warfare become the name of the game, as with new technology and investments in medical research the focus of their military forces became on choosing the best applicants not on physical capabilities but on mental faculties and loyalty for their new technology could make them as physically capable as any special operations soldier. These applicants were meant to aid in the mirriad of special and intelligence operations around the globe to try to destabilize the opponent and its allies, as victory by a thousand cuts was the only way to try to avoid a possible nuclear war.
+War grows hot
+Some say the ones who died were the lucky ones. Despite the effort to avoid nuclear war, it was for naught. The few weapons that harnessed the power of the atom that existed were used, destroying nations and levelling cities.
+
+
+Not all of civilization collapsed, matter of fact most chains of command and governance survived in one way or another.
+In the end of the world
+Even after the cradle of humanity was bathed in nuclear fire, the warring nations refused to relent. Even in the apocalypse skirmishes and battles occurred, none gaining much of an upper hand, as there is always more trouble. From new fledgling nations trying to be born, from the mostrosies that came to roam the earth altered by radiation, the uneasy peace and familiar instability of the cold war became nostalgic thoughts for those who now had to deal with the world after it should have ended.
+The long rebuild
+Generations lived and died as slowly yet surely society rebuilt. Civil wars were fought for independence, some successful in earning their freedom, some squashed under the thumb of oppressors. While the map is not the same anymore, with new nations being formed and even dead nations coming back, some familiar flags still fly, soviets, the nazis and the japanese in particular, still don't get along.
+Reaching to the stars
+Eventually, new satellites were put into space, something that hasn't happened since the cold war. After that we reach past our backyard, going beyond the moon. And finally humans set foot on lands long away from where they came from, they sowed their seeds, planted their roots, and waged war.
+
+
+Geography
+Much has changed, maps included.
+
+
+Venus
+During the times in which Venus was closer to humanity’s cradle, missions were sent there by those who not only wanted a new place to settle but also could afford it. The ships hit ground at the coldest parts of the planet, which were still too hot to be habitable, the passengers came prepared with the necessary tools to dig and create underground networks where cities, towns and communities were built with temperature controls, pressure stabilization and radiation shielding. Everything could be prepared on the planet with the resources and technology bought, while it wasn't plentiful, it was a safe haven compared to earth once they had entrenched themselves.
+
+
+Many many years passed since the last space ships had left to colonize venus, societies grew basically without contact to and from earth, they were only rediscovered when new colonizing missions arrived. These aimed not to bury themselves deep, but to build in the skies of the planet where temperatures can also be bearable, and they came with technology and resources of a much more advanced and recovered earth. Now those who were once to themselves the rich, the mighty and the upper crust of society, live under the shadow of a new, more powerful social class that colonizes their lands.
+
+
+The underways as they came to be called eventually were overflown with migrant populations brought in by the perspective of work, work offered by the rich above in order to not only enrich them further but to establish an even more firm hold on the planet. Initially the cities below ground resisted, but new ones were created and their paths eventually connected. The old rich class are now mockingly called ‘kings of dirty’ or ‘pauper princes’ by those who live above the clouds, both the ones who are truly rich, but also by their servants and employees who cater to their whims.
+Earth
+The third stone from the sun, the birthplace of humanity and a hellscape befitting of such honor. Its main players in the game of constant struggle for power are: The new soviet states, the 4th Reich and its allies, the eastern “tigers and dragons”, lastly but not least the fragmented remains of the allies, especially the united states of america, independent grand texas and the united kingdom.
+Americas
+Europe
+Asia
+Oceania
+Africa
+Moon
+Despite or maybe because it was a battlezone for some of the most bloody and unorthodox conflicts seen to humans at the time, earth’s only natural satellite became a semi-independent, neutral site for negotiations on neutral terms. Its name is the Lunar Concordium. Earth powers want it to stay near their backyard as the neutral hub of diplomacy since earth is too torn, this is the second best thing as it's not politically feasible to have it on earth as it would have to be in a side of the big conflict on the planet.
+
+
+Every single large faction has representation in the Lunar Concordium, even those in disagreement and opposition to the hegemon. While every planet has representatives, a few nations on the first asteroid belt also do, but usually it's seen as a quirk of their local dictator, barring the exception of larger and/or richer asteroid nations.
+
+
+The Lunar Concordium, while one of the smallest factions, is also the richest per capita as well as the densest with powerful people. While its built area is not massive, every single part is built to accommodate and house extremely powerful or at the very least influential people, making it one of the most expensive places to exist in, to the point smaller asteroid nations see themselves priced out of existing in large scale diplomacy, and this is by design.
+Mars
+Some media produced before its colonization imagined Mars as hell in a way never before seen, the red planet was both extremely far and uncomfortably close to that. The lack of faster-than-light travel made it so both support and contact from and with the colonies was not only rare but unreliable, with this, rebellious feeling grew and eventually a civil war for independence. Following a long and bloody civil war that had the eyes of the rich and powerful who lived in the Martian moons with their own retinues of servants and soldiers alike, Mars became independent from earth with only 2 sovereign states, United Martian City States and Independent Democratic Republic of Mars.
+
+
+Phobos
+Deimos
+1st asteroid belt
+During early colonization of Mars several missions to the 1st asteroid belt, most of those had its human assets in suspended animation, similar to induced coma. When it was finally time for their awakening, so long time had passed that martian colonization had started and ended in its bloody war, seeing what their situation was they instead of following the original mission all of them declared independence taking advantage of the exhausted state of all major players to settle several small nations on the asteroids. These new micro states thrived not only from commerce with several close neighbors making transportation cheap but by charging tolls for any ship or fleet that flew too close to their territory now some of the richest and individually powerful people in the solar system are the leaders and owners of such asteroid based colonies.
+Jupiter
+There are no real colonies or cities, it is however peppered by small research sites and resource exploration and exploitation sites owned by a few corporations and governments. Its largest city is rumoured to be governed a super computer running several highly advanced Daemons.
+Jupiter had its moons Europa, Io, Ganymede and Calisto colonized, this represented the last time(so far) earth attempted to have vassal states or colonies, Europa in particular was used as a place to send away persecuted minorities that earth would rather not have to deal with such as those who were displaced of victimized by war crimes during the martian wars.
+
+
+Europa
+Io
+Ganymede
+Calisto
+Saturn
+Only its moons are inhabited, and mostly by people that most societies look down upon, from vagabonds, revolutionaries, hippies and even some extremists, pretty much anyone who didn't fit anywhere else but are lucky enough to not be forced to the 2nd asteroid belt but unlucky enough to either be banned or sent to penal colony. The two big ones are the Titan alliance, an alliance of mainly ne'er-do-wells who don't want to be pushed further from the sun, and the Enceladus Conclave, a democracy formed by those pushed out of their homes who seek to carve something for themselves but also receive support of bleeding heart hippies who are rich children from closer to the sun, as they believe it to be shaping towards an utopia.
+Neptune
+With immense effort neptune's crust was pierced several times to create a few artificial volcanoes as a source of heat, unfortunately of the 17 colonies made around there artificial volcanoes only 11 survived and of those arguably less than half a dozen actually somewhat thrive. By necessity more than by want, they banded together under the name ‘the 18th colony’, for mutual aid and possible expansion.
+2nd asteroid belt
+Some might claim the 2nd asteroid belt is the worst place known to humankind, inhabited by social pariahs, madmen, exiled and fugitive criminals, most of the 2nd asteroid belt inhabitants are considered shot-on-sight by at least one government.
+
+
+Gear
+This section is dedicated to the items that exist in the world, how to acquire and use them.
+
+
+Prices
+Everything has a price, it's just not always the same.
+Prices are not static, they can fluctuate rather greatly depending on circumstances, particularly when talking about markets procured and acquired on the black market. Consider the prices of all items listed in this section as the average prices they can be legally acquired. Below are a series of tables to help you calculate the prices of items based on circumstances that might apply, multiple modifiers can apply on the same item.
+
+
+Example: Buying a fragmentation grenade, as its not available for the general public it must be acquired from a black market, the base price is 50 Kz, as its from the black market it comes with risk, lets say its x2, demand is low so it doesn't apply, but it's a little scarce so its x1.2, corruption is high giving it x0.8, and authenticity in this case inst a problem. The final price of the grenade will be 50x2x1.2x0.8, to a total of  96 Kz
+Factor
+	Description
+	Effect on price
+	Risk
+	How risk it is to steal, smuggle and sell the item, the more illegal the item, the higher price it fetches
+	x2-10
+	Demand
+	High demand from combat zones, gangs and warlords has its effect on the price
+	x1.2-4
+	Scarcity
+	How few of the items are on the market and/or how hard it is to source it
+	x1.2-4
+	Corruption level
+	How corruptible are the people who have access to the restricted item
+	x0.5-1.5
+	Authenticity and quality
+	Not all that glitters is gold, black market items may be the originals, but may also be fakes, homemades or duds
+	x0.5-1.5
+	Premade examples
+	Military withdrawal or collapse
+	A military force either leaving in haste or collapsing gives illegal trade plenty of supply they want the sell fast as to not have it taken over by another military force
+	x0.2-0.6
+	Violent coup
+	During violent changes in government caches are sometimes left abandoned at least temporarily
+	x0.5-0.9
+	Surplus dumping
+	Someone is dumping supply on the market for one reason or another
+	x0.2-x0.8
+	Peace time economy
+	Things are too calm, this can mean low demand but can also mean strong enforcement
+	x0.5-2
+	Civil war and insurrection
+	High demand, high risk and high profits for the sellers
+	x1.5-3
+	Government crackdown
+	Government is going after the black market, usually as a show of power, other times for public safety, not that it matters
+	x2-4
+	Embargo
+	Embargo on the item being sought, checkpoints and searches make supply routes less reliable
+	x1.5-3
+	Martial law
+	The item became more expensive due to being valuable for the top brass
+	x2-5
+	
+
+When deciding the situation of a market the narrator may opt to roll a number of d6s, each number representing one of the factors and 6 meaning nothing, if more than one dice falls on the same number the narrator can reroll or consider that factor more intense.
+
+
+Calibers
+The caliber of a weapon is what defines its damage and available variants, when buying ammo, for simplicity sake, when buying a full mags worth of ammo the mag itself comes for free. rule to calculate ammo price is calculate the average damage, divide by 3,5 and round up
+
+
+Caliber
+	Damage
+	Price per bullet
+	Short pinfire
+	1d6-1
+	1
+	4peace
+	1d6
+	1
+	8mm kraken
+	1d6+1
+	2
+	11th power cal
+	2d6-2
+	2
+	RF13
+	2d6
+	2
+	.41 wolfhound
+	2d6+2
+	3
+	.208 earth cracker
+	3d6
+	3
+	howling rounds
+	3d6+3
+	4
+	gauger gage
+	6d6-6
+	5
+	praetorian 9
+	4d6+4
+	6
+	666 MARS bolt round
+	6d6+6
+	8
+	
+
+Below is a table of what variants are available for what caliber, green means its available, red means it's not.
+
+
+
+
+	4peace
+	8mm kraken
+	11th power cal
+	RF13
+	.41 wolfhound
+	.208 earth crack
+	howling rounds
+	praetorian 9
+	price multiplier
+	full metal jacket
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	4x
+	tracer
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2x
+	hollow point
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2x
+	dummy
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	1x
+	subsonic
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	3x
+	armor piercing
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	4x
+	explosive
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	5x
+	incendiary
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	6x
+	anti-tank
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	7x
+	HEAT
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	5x
+	high precision
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	4x
+	
+
+Variant
+	Effect
+	Price multiplier
+	Full metal jacket
+	Roll damage with advantage
+	4x
+	Tracer
+	Even number shots(2, 4, 6…) on the same target may be re roll their test to hit
+	2x
+	Hollow point
+	Stun on a 6 on the d6 when rolling for damage
+	2x
+	Dummy
+	Does 1 damage, stuns on rolling a 10 on the shooting test
+	1x
+	Subsonic
+	100% silent if used with a silencer(not suppressor) but roll damage with disadvantage and reduces ideal range by 1(medium long becomes medium)
+	3x
+	Armor piercing
+	Ignores armor equal to damage rolled
+	4x
+	Explosive
+	For every d6 of damaged rolled, also roll a d4 for additional explosion damage
+	5x
+	Incendiary
+	For every 6 rolled for damage, the target is burning for 1 turn for 1d4 damage
+	6x
+	Anti-tank
+	Has the effects of armor piercing and explosive ammo
+	10x
+	High explosive anti tank
+	Has the effects of armor piercing, explosive and incendiary ammo
+	15x
+	High precision
+	Roll to hit with advantage
+	4x
+	
+
+Weapons
+Your tools of the trade and general problem solvers.
+Generic weapons
+Here is the list of generic weapons. They are generic to facilitate and simplify their names and uses and the terms are easier to remember and associate than names of weapons and brands.
+
+
+Weapon
+	caliber
+	ammo
+	rate of fire
+	ideal distance range
+	price
+	Pistols
+	Concealable pistol (high recoil)
+	4peace (1d6)
+	5
+	1
+	very short
+	 Kz
+	Small pistol (high recoil)
+	8mm kraken (1d6+1)
+	15
+	3
+	short
+	 Kz
+	Combat pistol (high recoil)
+	RF13 (2d6)
+	11
+	2
+	short medium
+	 Kz
+	Tactical pistol (precision)
+	11th power cal (2d6-2)
+	13
+	2
+	short medium
+	 Kz
+	Machine pistol (automatic)
+	8mm kraken (1d6+1)
+	25
+	5
+	short
+	 Kz
+	Heavy pistol (high recoil)
+	.41 wolfhound (2d6+2)
+	12
+	1
+	short medium
+	 Kz
+	Revolvers
+	Snub nose revolver (high recoil)
+	RF13 (2d6)
+	6
+	1
+	short
+	 Kz
+	Revolver (high recoil)
+	.41 wolfhound (2d6+2)
+	6
+	1
+	short medium
+	 Kz
+	Gauger gauge revolver (high recoil)
+	gauger gauge (6d6-6)
+	5
+	1
+	short
+	 Kz
+	Super heavy revolver (high recoil)
+	howling rounds (3d6+3)
+	6
+	1
+	medium
+	 Kz
+	Submachine guns
+	covert smg (automatic)
+	4peace (1d6)
+	25
+	5
+	very short
+	 Kz
+	light smg (automatic)
+	4peace (1d6)
+	30
+	5
+	short
+	 Kz
+	compact smg (automatic)
+	8mm kraken (1d6+1)
+	21
+	3
+	short
+	 Kz
+	assault smg (automatic)
+	11th power cal (2d6-2)
+	30
+	5
+	short medium
+	 Kz
+	pdw smg (automatic)
+	8mm kraken (1d6+1)
+	30
+	5
+	short medium
+	 Kz
+	Shotguns
+	short shotgun (high recoil)
+	Gauger gage (6d6-6)
+	6
+	1
+	very short
+	 Kz
+	pump action shotgun (high recoil)
+	Gauger gage (6d6-6)
+	10
+	1
+	short medium
+	 Kz
+	riot shotgun (high recoil)
+	Gauger gage (6d6-6)
+	8
+	1
+	short medium
+	 Kz
+	auto shotgun (high recoil)
+	Gauger gage (6d6-6)
+	12
+	3
+	short
+	 Kz
+	double barrel 1 hander shotgun (high recoil)
+	Gauger gage (6d6-6)
+	2
+	2
+	short
+	 Kz
+	Rifles
+	civilian rifle (precision)
+	8mm kraken (1d6+1)
+	30
+	3
+	short medium
+	650 Kz
+	lever action rifle high cal(high recoil)
+	11th power cal (2d6-2)
+	11
+	1
+	medium
+	500 Kz
+	carbine (high recoil)
+	11th power cal (2d6-2)
+	40
+	4
+	short medium
+	
+
+	hunting rifle (precision)
+	.41 wolfhound (2d6+2)
+	5
+	1
+	long
+	750 Kz
+	DMR (precision)
+	.208 earth cracker (3d6)
+	25
+	2
+	medium long
+	1200 Kz
+	assault rifle (automatic)
+	.41 wolfhound (2d6+2)
+	32
+	4
+	medium
+	1000 Kz
+	combat rifle (automatic)
+	.208 earth cracker (3d6)
+	30
+	3
+	medium
+	 Kz
+	battle rifle (automatic)
+	howling rounds (3d6+3)
+	30
+	3
+	medium long
+	 Kz
+	bullpup (automatic)
+	.208 earth cracker (3d6)
+	30
+	3
+	medium
+	 Kz
+	sniper (precision)
+	howling rounds (3d6+3)
+	10
+	1
+	very long
+	 Kz
+	Machine guns
+	support MG (automatic)
+	.208 earth cracker (3d6)
+	100
+	10
+	medium
+	 Kz
+	HMG (automatic)
+	praetorian n9 (4d6+4)
+	50
+	5
+	short
+	 Kz
+	LMG (automatic)
+	.41 wolfhound (2d6+2)
+	50
+	5
+	short medium
+	 Kz
+	general purpose MG (automatic)
+	howling rounds (3d6+3)
+	80
+	8
+	short medium
+	 Kz
+	Special
+	elephant gun (precision)
+	666-MARS bolt round (6d6+6)
+	1
+	1
+	medium long
+	
+
+	Melee
+	pocket knife
+	melee 1d4-1
+	N/A
+	1d4
+	melee
+	 Kz
+	hunting knife
+	melee 1d4
+	N/A
+	1d4
+	melee
+	 Kz
+	combat knife
+	melee 1d4+1
+	N/A
+	1d4
+	melee
+	 Kz
+	sword
+	melee 2d4-1
+	N/A
+	1d4
+	melee
+	 Kz
+	tomahawk
+	melee 2d4-2
+	N/A
+	1d2
+	melee(hit), short(throw)
+	 Kz
+	
+
+Non-generic weapons
+for those who want something with personality.
+
+
+WEAPON NAME
+what weapon its based on and its type(can be different from the base model), caliber, ammo amount, rate of fire, ideal range
+description, details, available attachments and price
+
+
+FOLDING PISTOL
+concealable pistol (high recoil)
+	short pinfire (1d6-1)
+	1
+	1
+	very short
+	Made to be discartable, this 3d printed pistol engineered by an anonymous user breaks after a single use, its main feature is it folding design, making it very concealable, even when being patted down, its difficult to detect
+	
+
+ZAOJIAN ST13 “POCKET TIGER”
+small pistol (precision)
+	11th power cal(2d6-2)
+	12
+	2
+	short medium
+	Originally made for Chinese special agents, later adopted by special forces, this small, precise and powerful pistol eventually became accessible on the market, it features a double stack mag, rails above and below the barrel and roller delayed blowback for increased precision. Can use most attachments available for most pistols
+	
+
+BLITZKAMPF KRAUSER 1
+combat pistol (high recoil)
+	.41 wolfhound
+(2d6+2)
+	8
+	2
+	short medium
+	This german pistol meant for officers and elite soldiers alike is bigger and heavier than its counterparts, its heavier weight is distributed to make recoil more manageable, this allows for its larger, more powerful caliber. Due to its unique design it cant take any attachments without being modified
+	
+
+TOVARICH PERUN’S ER39 “TORNADO”
+revolver (precision)
+	RF13 (2d6)
+	6
+	2
+	medium
+	This revolver has its barrel low and its drum as far back as it can, all to increase precision. Due to its unique design it cant take any attachments without being modified
+	
+
+RAIJIN SC 97 “SUITCASE”
+covert smg (automatic)
+	8mm kraken (1d6+1)
+	22
+	4
+	short
+	This smg has a case in the shape of a suitcase, it's made of a magnetic material all to make it as covert as possible, it can both fire from its suitcase shell, or with the press of a button on the handle the shell falls revealing the weapon. Due to its unique design it cant take any attachments without being modified
+	
+
+KOVIX PAG 93 “KOVACS”
+assault smg (automatic)
+	RF13 (2d6)
+	24
+	4
+	short medium
+	Smaller than a rifle, fast firing, and still packing a punch, initially sold to the Czech military urban operations regiment under the brand name Kovex and weapon name PAG(personal assault gun)
+	
+
+LEGATO AUTOMATIC SHOTGUN “HOLE PUNCHER”
+auto shotgun (automatic)
+	gauger gage (6d6-6)
+	20
+	4
+	short
+	When a shot is fired the gas is made to push weights attached to springs inside the the weapon, the weights are pushed downward, making the recoil easier to deal with in order to increase rate of fire, other than that its main characteristic is its impressive mag size, but good luck finding this weapon when not in the hands of italian special operations. It has rails on top of the body and on the sides of the barrel.
+	
+
+THE PIMP
+pump action shotgun (high recoil)
+	gauger gage (6d6-6)
+	1
+	1
+	very short
+	This snazzy cane is hollow, all it has inside is a firing mechanism and space for a single shell, fired by a trigger hidden on its curved and engraved handle. Due to its unique design it cant take any attachments without being modified
+	
+
+BLITZKAMPF KRAUSER 2
+carbine (automatic)
+	.41 wolfhound
+(2d6+2)
+	24
+	6
+	short medium
+	A carbine made for commandos, to sneak in, get a good position and rain fire on unsuspecting enemies, its caliber not only allows for decent amount of ammo to be carried and be reasonable powerful but also allows its mags to be interchangeable with krauser 1 mags, just with different sizes. Due to its unique design it cant take any attachments without being modified
+	
+
+KAISER TECH SR11
+sniper (precision)
+	howling rounds (3d6+3)
+	10
+	2
+	very long
+	Highly precise machining allows this rifle made for counter terrorism to have a hair trigger, making firing it faster without losing much accuracy. Due to its unique design it cant take any attachments without being modified
+	
+
+
+
+KRIEGS MECHS DUAL BARREL MACHINE GUN “TWINS”
+HMG (automatic)
+	howling rounds (3d6+3)
+	64
+	8
+	short
+	This weapon is so heavy you need at least 10 in physical to use it, this HMG has 2 barrels to deal with head, each with its own feed system which allows it to not overheat in spite of its high fire rate. Due to its unique design it cant take any attachments without being modified
+	
+
+MARS DIPLOMAT
+special (high recoil)
+	666 mars battle round (6d6+6)
+	3
+	1
+	short
+	A pistol given to martian diplomacy workers, its massive caliber made anyone think twice before picking up a fight with the mars diplomatic wing, and it's also small enough for the diplomats to carry them discreetly, it has 3 barrels disposed in a triangle, each with 1 bullet, after every shot the triangle rotates. Due to its unique design it cant take any attachments without being modified
+	
+
+GAS KNIFE
+combat knife (melee)
+	melee (1d4/4d4)
+	1
+	1
+	melee
+	This very cruel and in most places very illegal blade, has a compressed gas compartment that can be released at the press of a button, scrambling the poor victim’s insides
+	
+
+SWORD OF ELEMENTS
+sword (melee)
+	melee 4d4 one of each type
+	N/A
+	1d4
+	melee
+	The blade is red hot, the body of the sword is freezing cold, this is to generate thermoelectric energy that flow through the metal, making it cut, burn, freeze and shock, scarier than that is its price tag
+	Attachments
+not all attachments are available for all weapons, so they have a list of what weapons they are available for. Attachment prices can be based on the price of the weapon, in this case if need to round, round up.
+
+
+location
+	attachment
+	availability
+	price
+	description
+	barrel
+	suppressor
+	all pistols, all smgs, all rifles except lever action
+	25% of weapon price
+	reduces noise by about 20% on average
+	
+
+Armor
+A general rule to calculate the price of armor is its protection^2, every 10 points of protection either the armor has the effect of -1 to physical or coordination or its exponent increases by 1. Helmet armor costs 1.5x the price of body armor, and its negative effects on awareness.
+
+
+The ‘other’ section is for other clothing, protection or general external accessories that can provide the user with some boon. Below are specific items from all 3 categories or armor, vests and helmets will have those words in their names.
+Name
+	Effect
+	Price
+	Good boots
+	all negative effects from rough terrain are reduced by 1
+	50 Kz
+	Head mount
+	allows to mount on head or helmet light source or goggles
+	20 Kz
+	Thermal under clothes
+	Decreases the negative effects of cold weather and take longer to feel its negative effects
+	40 Kz
+	
+
+General items
+general and random items
+Prices listed are for legal purchase, not all items can be legally bought, so they might come more expensive on the black market
+
+
+Grenades
+
+
+Name
+	Description
+	Price
+	Frag
+	Fragmentation grenade, does 6d6 damage at the center, loses 1d6 of damage per meter away from the center
+	50 Kz
+	Smoke
+	Releases a thick cloud of either black or colored smoke, the smoke curtain obscures those inside and blocks view, lasts 25 turns
+	40 Kz
+	Incendiary
+	Highly flammable material begins to burn at extreme temperatures soon after the lever is released, the flammable material is thrown out to spread the flames, burns for 2d6 turns, spreads 2d4s meters range and deals up to 10d6+10 damage
+	70 Kz
+	Flashbang
+	Grenade made to stun the enemy
+	60 Kz
+	Riot
+	Releases chemical irritant along with a loud sound and bright light, giving all affected -5 to all rolls for a round
+	45 Kz
+	Mine
+	Pressure activated explosive, made to be hidden, once activated it explodes for 6d6+6 damage at the center, damage decreases by 1d6+1 per meter
+	75 Kz
+	Claymore
+	Explosive made to left stationary with its sensors pointed towards enemy is likely to come from, on sensor trigger it detonates a directional shrapnel charge for 8d6+4 damage that decreases by 2d6+1 per 2 meters away from the device
+	80 Kz
+	Anti tank
+	This cylinder grenade can be set to be thrown or pressure activated, it's made to penetrate armor, does 10d10+10 damage at center decreasing by 2d10+2 per meter away from the center
+	90 Kz
+	
+
+Equipment
+
+
+Rope
+	Sold by the meter
+	1 Kz
+	PDA
+	Personal digital assistant, comes loaded with several useful daemons
+	100 Kz
+	Lock Pick kit
+	Used to try to open mechanical locks without destroying them, use it with a larceny test vs how safe the lock is
+	40 Kz
+	Tool box
+	A strong box full of tools useful for engineering work
+	70 Kz
+	Basic flashlight
+	Not so strong light, good enough for indoors and smaller spaces, but don't expect it to light a warehouse
+	10 Kz
+	strong torch
+	Good for the pitch blackness of open fields and big structures, maybe a bit overkill for smaller places
+	25 Kz
+	First aid kit
+	The most base essential, bandages, wipes, gauze and the like
+	20 Kz
+	Medkit
+	A more complete kit, needle and thread, more bandage,  gauze pads, gloves, antiseptic, alcohol, scissors, burn cream, blister preventers, tourniquet and some more
+	50 Kz
+	Field surgery kit
+	Scalpel, forceps, needles and thread, needle holders, surgical scissors, suction pump, skin staples, hemostatic agent, saline water, anesthesia, antibiotics and quite a bit more, odd are if you need it, you will have it
+	100 Kz
+	Scuba wetsuit
+	
+
+	 Kz
+	O2 tank
+	Lasts 1 hour, can equip up to 2 at once
+	 Kz
+	Gas mask
+	
+
+	 Kz
+	Gas mask filter
+	Lasts 1 hour
+	 Kz
+	Geiger counter
+	
+
+	 Kz
+	Handcuffs
+	
+
+	 Kz
+	Drugs
+	Berserk
+	Increases physical by 1d4+1 while reducing all other statuses by 1 while it's active. Its effect lasts for 2d10 turns rolled with advantage.
+	 Kz
+	Lee
+	Increases agility, endurance, athletics and dexterity by 2 but caps the natural level(the level without implants) of all other skills to 5, lasts 1d2 hours
+	 Kz
+	Magna eye
+	Adding 1d4 to brains, the only side effect is having a negative 1d4-1 to nerve, coordination and social. The effects last 1d10 hours. 
+	 Kz
+	Kasie
+	Kasie only increases 1 to social and 1 to all social skills, can be taken twice to double the effect
+	 Kz
+	Sun rise
+	Once used roll 1d4-1 if they sum up to 0 the PED has no effect and nothing happens, if the result is higher than 0 it's added to the nerve stat and then +1 to physical but -1 to everything else. The effects last 4d4 hours. 
+	 Kz
+	
+
+Miscellaneous
+
+
+Fast food
+	Usually just a sandwich
+	
+
+	Fast food combo
+	Bigger meal, sandwich, salty fries and a cold sugary soft drink
+	
+
+	Restaurant meal
+	Meal for 1 at a regular restaurant
+	
+
+	Groceries
+	Enough groceries to make a meal for 1 person
+	
+
+	MRE
+	Meal ready to eat, lasts decades if kept close
+	
+
+	Hot MRE
+	MRE with a pouch for water, the water reacts with a chemical in exothermic reaction, which warms the meal
+	
+
+	Gallon of fuel
+	1 gallon of fuel, mainly used for cars, but can be used for arson 
+	
+
+	Distilled alcohol
+	Not top shelf but not bad either
+	
+
+	
+
+Drones
+Drone is the designation given to any piece of technology capable of controlling and exerting mechanical work in the physical world. Drones do every test by rolling 1d10.
+
+
+Grade
+	Description
+	Basic
+	Simplest of drones with simplest of daemons, often can only move, can never actively perform actions
+	Civilian
+	Drones made for leisure or simple tasks like cleaning
+	Industrial
+	Hardier drones capable of hard labor like soldering
+	Humanoid
+	While often having humanoid shape, this grade indicates the drone is capable of the human skill of multitasking, such as walking while keeping balance and manipulating an object
+	Military
+	Drones made for combat, to resist punishment and often cause damage
+	
+
+Drones for sale
+	Model
+	Description
+	Price
+	Basic grade drones
+	Copter
+	Helicopter or quadcopter shaped drone that moves based on hand signs or voice commands
+	
+
+	Civilian grade drones
+	Cleaner
+	Small drone that moves through the floor cleaning it
+	
+
+	Little helper
+	Small flying drones of different appearances, can hold and fly while holding light items
+	
+
+	Industrial grade drones
+	Spiderbot
+	Drone made to be able to secure itself and climb surfaces, usually holding a tools like welding equipment, and use those tools for a task
+	
+
+	Humanoid grade drones
+	Big helper
+	Standing almost as tall as the average human, this humanoid robot is made to be used in nursing homes, treat its physical as +8
+	
+
+	Military grade drones
+	
+
+	This drone is big and large, standing at around 2.4m, it has a pod inside able to carry a human, it can also be piloted from said pod. It comes equipped with 2 HMGs on each side(4 in total), pilots don't use their automatic skill to shoot
