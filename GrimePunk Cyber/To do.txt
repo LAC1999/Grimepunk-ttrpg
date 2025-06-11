@@ -21,6 +21,7 @@ Lore
 	Religion
 Gear
 	~General items
+	~Implants
 	~Drones
 	~Generic Weapons
 	~non generic weapons
