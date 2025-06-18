@@ -1,4 +1,6 @@
 "~" means partially done, needs to be completed
+Creating the player character
+	~Abilities
 
 Lore
 	Geography
@@ -28,4 +30,5 @@ Gear
 	~attachments
 	~Armor
 	~Drugs
+	~Vehicles
 	AIs
